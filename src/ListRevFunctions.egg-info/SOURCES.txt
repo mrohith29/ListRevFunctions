@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+src/ListRevFunctions.egg-info/PKG-INFO
+src/ListRevFunctions.egg-info/SOURCES.txt
+src/ListRevFunctions.egg-info/dependency_links.txt
+src/ListRevFunctions.egg-info/top_level.txt
