@@ -1,0 +1,4 @@
+import ListOperations as lo
+
+ob = lo.perform([1,2], [3,4])
+print(ob.add())
