@@ -1,6 +1,9 @@
+LICENSE
 README.md
 pyproject.toml
-setup.py
+src/ListOperations.py
+src/__init__.py
+src/test.py
 src/ListRevFunctions.egg-info/PKG-INFO
 src/ListRevFunctions.egg-info/SOURCES.txt
 src/ListRevFunctions.egg-info/dependency_links.txt
